@@ -1,0 +1,6 @@
+import { encryptOwners } from './utils/cristalWinter.js';
+
+await encryptOwners([
+  "237699239593",
+  "237699239593"
+]);
